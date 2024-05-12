@@ -12,7 +12,7 @@ Puedes actualizarlo ejecutando el siguiente comando:
 sudo apt update
 ```
 
-## USO
+## Uso
 
 1. Clona este repositorio en tu máquina local:
 
